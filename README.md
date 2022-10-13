@@ -29,7 +29,7 @@ Md → Mondstadt
 
 Ly → Liyue
 
-Still figuring out the rest 
+Inazuma and Sumeru are probably following the same logic
 
 
 For base map texture and tint
