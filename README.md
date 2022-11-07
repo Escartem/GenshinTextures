@@ -3,6 +3,9 @@ All Genshin Impact textures extracted from game such as map and characters textu
 
 Have fun with it :)
 
+If you have any questions or suggestions :
+[![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh)
+
 ---
 
 <details>
@@ -68,8 +71,3 @@ Some textures are also in folders starting with Activty
 /Texture2D/Eff/UI/Activity/WinterCamp/
 ```
 </details>
-
----
-
-If you have any questions or suggestions :
-[![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh)
