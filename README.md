@@ -1,4 +1,4 @@
-# GenshinTextures
+# GenshinTextures (see also : [GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes))
 All Genshin Impact textures extracted from game such as map and characters textures, items icons, ui and other stuff.
 
 Have fun with it :)
@@ -7,6 +7,10 @@ If you have any questions or suggestions :
 [![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh)
 
 ---
+## A few details
+
+* There is around 95% of all game textures
+* They were all sorted as there is around 30,000 files, see bellow for some reference
 
 <details>
     <summary>Interesting files location</summary>
@@ -71,3 +75,8 @@ Some textures are also in folders starting with Activty
 /Texture2D/Eff/UI/Activity/WinterCamp/
 ```
 </details>
+
+---
+## Credits
+
+I do not own any of the files as they come from Genshin, but if you are using them it would be appreciated to credit this repo and add a link to help it become more popular and help people know it exists, thx <3
