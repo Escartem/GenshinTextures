@@ -10,7 +10,7 @@ If you have any questions or suggestions : [![Discord Banner 2](https://discorda
 You can :
 * [Browse the files](https://github.com/Escartem/GenshinTextures/tree/master/Texture2D) and download the ones you need individually
 * [Download the entire repo](https://github.com/Escartem/GenshinTextures/archive/refs/heads/master.zip) as a zip file (~12Gb)
-* Clone the repo with `git clone https://github.com/Escartem/EscartemTextures` including .git folder (~24Gb)
+* Clone the repo with `git clone https://github.com/Escartem/GenshinTextures` including .git folder (~24Gb)
 
 ---
 ## A few details
