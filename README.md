@@ -3,8 +3,7 @@ All Genshin Impact textures extracted from game such as map and characters textu
 
 Have fun with it :)
 
-If you have any questions or suggestions :
-[![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh)
+If you have any questions or suggestions : [![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh) or [create a discussion](https://github.com/Escartem/GenshinTextures/discussions/new)
 
 ---
 ## A few details
