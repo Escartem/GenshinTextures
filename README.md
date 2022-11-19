@@ -1,88 +1,50 @@
 # GenshinTextures (also see : [GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes), [GenshinAudio](https://github.com/Escartem/GenshinAudio))
 All Genshin Impact textures extracted from game such as map and characters textures, items icons, ui and other stuff.
 
-Have fun with it :)
+# This repo received a DMCA takedown from MiHoYo, all of the textures are removed from the repository and it's commit history.
+## This is sad to see this repo end after that many months but it is the way of things I guess, the discussions are still enabled if you want to talk and i'll leave the link to my discord server if you have any questions : [![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh)
 
-If you have any questions or suggestions : [![Discord Banner 2](https://discordapp.com/api/guilds/503554429648371712/widget.png?style=shield)](https://discord.gg/fzRdtVh) or [create a discussion](https://github.com/Escartem/GenshinTextures/discussions/new)
-
----
-## How to download
-You can :
-* [Browse the files](https://github.com/Escartem/GenshinTextures/tree/master/Texture2D) and download the ones you need individually
-* [Download the entire repo](https://github.com/Escartem/GenshinTextures/archive/refs/heads/master.zip) as a zip file (~12Gb)
-* Clone the repo with `git clone https://github.com/Escartem/GenshinTextures` including .git folder (~24Gb)
-
----
-## A few details
-
-* There is around 95% of all game textures
-* They were all sorted as there is around 30,000 files, see bellow for some reference
-
-<details>
-    <summary>Interesting files location</summary>
-
-* Characters textures
+# Here is a part of the DMCA takedown notice :
 ```
-/Texture2D/Avatar/[Character type]/[Weapon type]/[Character name]/Tex/
-``` 
-(if texture is missing some parts remove alpha channel from file)
+**Please describe the nature of your copyright ownership or authorization to act on the owner's behalf.**
 
-* NPC textures
+We are the copyright owner of the game Genshin Impact, see https://genshin.hoyoverse.com/en/
+
+**Please provide a detailed description of the original copyrighted work that has allegedly been infringed. If possible, include a URL to where it is posted online.**
+
+Dear,
+
+This is COGNOSPHERE PTE. LTD. We are here to report a few infringing repositories on Github. Without our authorization, the links identified herein contain and display openly the codes/source codes of our game package, which have constituted as a copyright infringement as well as a violation of the Terms of Service of the game.
+
+The infringing URLs are:
+
+1, [https://github.com/Escartem/GenshinTextures](https://github.com/Escartem/GenshinTextures)
+
+We find that the “**Texture2D**” folder in this repository contains our codes decoded from our game package. Check [https://github.com/Escartem/GenshinTextures/tree/master/Texture2D/Avatar](https://github.com/Escartem/GenshinTextures/tree/master/Texture2D/Avatar) for example.
+
+Meanwhile, in the “readme” part, the creator of this repo clearly states that it contains “All Genshin Impact textures extracted from game such as map and characters textures, items icons, ui and other stuff”, which further proves our point.
+
+2，[https://github.com/Escartem/GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes)
+
+It is from the same creator who decodes our game package. For example, the file in [https://github.com/Escartem/GenshinCutscenes/blob/master/VideoAssets/LongWangStroy/Cs_LYAQ1112308_LongWangStroy.mp4](https://github.com/Escartem/GenshinCutscenes/blob/master/VideoAssets/LongWangStroy/Cs_LYAQ1112308_LongWangStroy.mp4) is video from our game.
+
+The infringement has caused a great harm to us. We request a permanent removal of the repositories.
+
+Many thanks!
+
+**What files should be taken down? Please provide URLs for each file, or if the entire repository, the repository’s URL.**
+
+The entire repositories we mentioned above should be removed.  
+https://github.com/Escartem/GenshinTextures  
+https://github.com/Escartem/GenshinCutscenes
+
+**So that we can get back to you, please provide either your telephone number or physical address.**
+
+[private]  
+[private]  
+[private]  
+
+**Please type your full legal name below to sign this request.**
+
+[private]  
 ```
-/Texture2D/NPC/[NPC type or region]/ 
-```
-
-* Map
-
-For models and terrain textures
-```
-/Texture2D/Area/ 
-```
-Md → Mondstadt 
-
-Ly → Liyue
-
-Inazuma and Sumeru are probably following the same logic
-
-
-For base map texture and tint
-
-```
-/Texture2D/BigWorldTerrain/ 
-```
-
-For fog
-
-```
-/Texture2D/BigWorld/ 
-``` 
-
-* Characters cards
-```
-/Texture2D/UI/AvatarIcon/ 
-```
-
-* Chat stickers 
-```
-/Texture2D/UI/EmotionIcon1~224/
-```
-
-* Events tutorials and others textures
-```
-/Texture2D/UI/Activity/[Event name]/
-```
-Some textures are also in folders starting with Activty 
-
-* If you want to have nightmares with cursed characters
-```
-/Texture2D/Eff/UI/Activity/Reunion/
-/Texture2D/Eff/UI/Activity/RogueDiary/
-/Texture2D/Eff/UI/Activity/SummerTimeV2/
-/Texture2D/Eff/UI/Activity/WinterCamp/
-```
-</details>
-
----
-## Credits
-
-I do not own any of the files as they come from Genshin, but if you are using them it would be appreciated to credit this repo and add a link to help it become more popular and help people know it exists, thx <3
