@@ -1,3 +1,6 @@
+# If you want 3.3 textures [go here](https://github.com/umaichanuwu/GenshinTextures3.3)
+# And if you want the rest just go look at a fork
+
 # GenshinTextures (also see : [GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes), [GenshinAudio](https://github.com/Escartem/GenshinAudio))
 All Genshin Impact textures extracted from game such as map and characters textures, items icons, ui and other stuff.
 
