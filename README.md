@@ -1,4 +1,4 @@
-# If you want textures [go here](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md)
+# If you want textures and all of the other stuff, everything is here now [here](https://github.com/umaichanuwu/GenshinLinks/blob/main/README.md)
 
 # GenshinTextures (also see : [GenshinCutscenes](https://github.com/Escartem/GenshinCutscenes), [GenshinAudio](https://github.com/Escartem/GenshinAudio))
 All Genshin Impact textures extracted from game such as map and characters textures, items icons, ui and other stuff.
